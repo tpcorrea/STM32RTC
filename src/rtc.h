@@ -103,7 +103,7 @@ typedef void(*voidCallbackPtr)(void *);
 
 /* Interrupt priority */
 #ifndef RTC_IRQ_PRIO
-#define RTC_IRQ_PRIO       2
+#define RTC_IRQ_PRIO       6
 #endif
 #ifndef RTC_IRQ_SUBPRIO
 #define RTC_IRQ_SUBPRIO    0
